@@ -5,7 +5,7 @@
 //go:build !math_big_pure_go
 // +build !math_big_pure_go
 
-package saferith
+package safenum
 
 func addVV_check(z, x, y []Word) (c Word)
 func addVV_vec(z, x, y []Word) (c Word)

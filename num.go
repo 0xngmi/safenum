@@ -1,4 +1,4 @@
-package saferith
+package safenum
 
 import (
 	"fmt"

@@ -5,7 +5,7 @@
 //go:build !math_big_pure_go
 // +build !math_big_pure_go
 
-package saferith
+package safenum
 
 // implemented in arith_$GOARCH.s
 func mulWW(x, y Word) (z1, z0 Word)

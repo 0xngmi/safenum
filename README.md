@@ -1,4 +1,4 @@
-# saferith
+# safenum
 
 The purpose of this package is to provide a version of arbitrary sized
 arithmetic, in a safer (i.e. constant-time) way, for cryptography.
